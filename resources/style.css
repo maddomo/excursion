@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: Verdana;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+header p{
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+header a{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
