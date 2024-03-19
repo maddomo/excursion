@@ -64,6 +64,11 @@ video{
     margin-top: 40px;
 }
 
+.travelguide img{
+    max-width: 100%;
+    height: auto;
+}
+
 footer{
     text-align: right;
     color: rgb(128, 128, 128);
